@@ -1,6 +1,6 @@
 # Alfabeto Infantil
 
-Um parágrafo da descrição do projeto vai aqui
+Projeto pessoal para auxiliar na alfabetização de forma divertida e descontraída, trabalhando a percepção da escrita, a exploração e a composição de palavras. Brincando a criança aprende com muita facilidade a formação das palavras e frases
 
 ## 🚀 Começando
 
